@@ -1,0 +1,10 @@
+first_name = "william"
+last_name = "mendoza"
+full_name = "William Mendoza"
+country="colombia"
+city="pamplona"
+age="24"
+year="2025"
+is_married="false"
+first_name, last_name, age, city = "william", "mendoza", "25", "pamplona"
+print("first name: ",first_name, "last name:",last_name, "age: ",age, "city: ",city)
