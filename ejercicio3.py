@@ -1,0 +1,5 @@
+nombre = str(input("ingrese su nombre: "))
+apellido = str(input("ingrese su apellido: "))
+age = int(input("ingrese su edad"))
+country = str(input("ingrese su pais: "))
+print(nombre, apellido, age, country)
