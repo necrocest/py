@@ -17,6 +17,7 @@ print(last_name)
 print(age)   #verificar la clase o tipo de variable
 print(city)
 print(country)
+print('== Addition, Subtraction, Multiplication, Division, Modulus ==')
 num_one = 5 
 num_two = 6
 total = num_one + num_two
