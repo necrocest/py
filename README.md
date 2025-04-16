@@ -1,1 +1,0 @@
-hola, esto es un intento de estudio para python
