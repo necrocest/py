@@ -11,8 +11,5 @@ base = float(input("Ingrese la base del triangulo: "))
 altura = float(input("Ingrese la altura del triangulo: "))
 area = base*altura/2
 print(f"El area es: ", area)
-if area<100:
-    print("Gay")
-elif area>100:
-    print("gay")
+
     
